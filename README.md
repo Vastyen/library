@@ -1,2 +1,5 @@
 # Library Simulator 📚 
 
+## Stack
+
+• Java
