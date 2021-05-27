@@ -2,7 +2,7 @@
 
 ## What is library simulator?
 
-Database simulator for a library
+Database simulator for a library.
 
 ## How is work?
 
@@ -14,5 +14,5 @@ The data is saved in a .csv file, this means it can work offile.
 
 Graphical environment: JFrame
 
-The code is not finished yet and some functions do not work 
+The code is not finished yet and some functions do not work.
 
